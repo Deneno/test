@@ -1,6 +1,6 @@
 ! Title: Beautiful allowlist 
 ! Description: For testing purposes only 
-! Version: 0.0.6
+! Version: 0.0.7
 ! TimeUpdated: 2022-11-25T17:03:35+03:00
 
 @@||gismeteo.ru^
